@@ -1,8 +1,8 @@
 # npmtest-kickass-torrent
 
-test coverage for  [kickass-torrent (v0.0.3)](https://github.com/gusnips/node-kickass-torrent)  [![npm package](https://img.shields.io/npm/v/npmtest-kickass-torrent.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-kickass-torrent) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-kickass-torrent.svg)](https://travis-ci.org/npmtest/node-npmtest-kickass-torrent)
+#### basic test coverage for  [kickass-torrent (v0.0.3)](https://github.com/gusnips/node-kickass-torrent)  [![npm package](https://img.shields.io/npm/v/npmtest-kickass-torrent.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-kickass-torrent) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-kickass-torrent.svg)](https://travis-ci.org/npmtest/node-npmtest-kickass-torrent)
 
-kickass.to json API wrapper
+#### kickass.to json API wrapper
 
 [![NPM](https://nodei.co/npm/kickass-torrent.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/kickass-torrent)
 
@@ -10,7 +10,7 @@ kickass.to json API wrapper
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-kickass-torrent/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-kickass-torrent/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-kickass-torrent/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-kickass-torrent/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-kickass-torrent/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-kickass-torrent/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-kickass-torrent/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-kickass-torrent/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-kickass-torrent/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-kickass-torrent/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-kickass-torrent/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-kickass-torrent/build/coverage.html/index.html)
 
@@ -77,7 +77,8 @@ kickass.to json API wrapper
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "version": "0.0.3"
+    "version": "0.0.3",
+    "bin": {}
 }
 ```
 
